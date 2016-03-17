@@ -1,0 +1,42 @@
+<RTT>
+<AgencyList>
+<Agency Name="Caltrain" HasDirection="True" Mode="Rail">
+<RouteList>
+<Route Name="LIMITED" Code="LIMITED">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Burlingame Caltrain Station" StopCode="70081">
+<DepartureTimeList>
+<DepartureTime>13</DepartureTime>
+<DepartureTime>88</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LOCAL" Code="LOCAL">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Burlingame Caltrain Station" StopCode="70081">
+<DepartureTimeList>
+<DepartureTime>42</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

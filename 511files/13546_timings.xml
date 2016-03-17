@@ -1,0 +1,41 @@
+<RTT>
+<AgencyList>
+<Agency Name="SF-MUNI" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1-California" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Downtown">
+<StopList>
+<Stop name="32nd Ave and California St" StopCode="13546">
+<DepartureTimeList>
+<DepartureTime>4</DepartureTime>
+<DepartureTime>11</DepartureTime>
+<DepartureTime>18</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="1AX-California A Express" Code="1AX">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Downtown">
+<StopList>
+<Stop name="32nd Ave and California St" StopCode="13546">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

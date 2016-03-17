@@ -1,0 +1,46 @@
+<RTT>
+<AgencyList>
+<Agency Name="Marin Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="113" Code="113">
+<RouteDirectionList>
+<RouteDirection Code="1727" Name="113 Westbound To Redwood HS">
+<StopList>
+<Stop name="Lucky Dr &amp; Riviera Circle" StopCode="40314">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="119" Code="119">
+<RouteDirectionList>
+<RouteDirection Code="1764" Name="119 Westbound To Redwood HS via Belvedere">
+<StopList>
+<Stop name="Lucky Dr &amp; Riviera Circle" StopCode="40314">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="1732" Name="119 Westbound To Redwood HS">
+<StopList>
+<Stop name="Lucky Dr &amp; Riviera Circle" StopCode="40314">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

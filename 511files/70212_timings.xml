@@ -1,0 +1,91 @@
+<RTT>
+<AgencyList>
+<Agency Name="Caltrain" HasDirection="True" Mode="Rail">
+<RouteList>
+<Route Name="BABY BULLET" Code="BABY BULLET">
+<RouteDirectionList>
+<RouteDirection Code="SB1" Name="SOUTHBOUND TO SAN JOSE DIRIDON">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LIMITED" Code="LIMITED">
+<RouteDirectionList>
+<RouteDirection Code="SB2" Name="SOUTHBOUND TO TAMIEN">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="SB1" Name="SOUTHBOUND TO SAN JOSE DIRIDON">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="SB3" Name="SOUTHBOUND TO GILROY">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LOCAL" Code="LOCAL">
+<RouteDirectionList>
+<RouteDirection Code="SB2" Name="SOUTHBOUND TO TAMIEN">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList>
+<DepartureTime>6</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="SB1" Name="SOUTHBOUND TO SAN JOSE DIRIDON">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList>
+<DepartureTime>66</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="SB3" Name="SOUTHBOUND TO GILROY">
+<StopList>
+<Stop name="Mountain View Caltrain Station" StopCode="70212">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

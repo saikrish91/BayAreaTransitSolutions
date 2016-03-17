@@ -1,0 +1,51 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="International Blvd and 90th Av" StopCode="50164">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="1R" Code="1R">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="International Blvd and 90th Av" StopCode="50164">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="801" Code="801">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="International Blvd and 90th Av" StopCode="50164">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

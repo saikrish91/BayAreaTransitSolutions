@@ -1,0 +1,41 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="Telegraph Av and 32nd St" StopCode="50411">
+<DepartureTimeList>
+<DepartureTime>13</DepartureTime>
+<DepartureTime>35</DepartureTime>
+<DepartureTime>45</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="800" Code="800">
+<RouteDirectionList>
+<RouteDirection Code="West" Name="San Francisco">
+<StopList>
+<Stop name="Telegraph Av and 32nd St" StopCode="50411">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

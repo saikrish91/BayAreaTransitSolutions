@@ -1,0 +1,89 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="901" Code="901">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="Orchard" StopCode="64764">
+<DepartureTimeList>
+<DepartureTime>4</DepartureTime>
+<DepartureTime>19</DepartureTime>
+<DepartureTime>26</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="901X" Code="901X">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="Orchard" StopCode="64764">
+<DepartureTimeList>
+<DepartureTime>2</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="Orchard" StopCode="64764">
+<DepartureTimeList>
+<DepartureTime>3</DepartureTime>
+<DepartureTime>12</DepartureTime>
+<DepartureTime>21</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="912" Code="912">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Mountain View - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Orchard" StopCode="64764">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="914" Code="914">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Winchester - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Orchard" StopCode="64764">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

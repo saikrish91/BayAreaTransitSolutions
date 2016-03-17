@@ -1,0 +1,118 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="200 Union City Bart-Newpark Mall-Fremont Bar" Code="200">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList>
+<DepartureTime>60</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="232" Code="232">
+<RouteDirectionList>
+<RouteDirection Code="North" Name="NewPark Mall">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="275" Code="275">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Lido Faire Shopping Center">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList>
+<DepartureTime>75</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="801" Code="801">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="99" Code="99">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+<Agency Name="Dumbarton Express" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="DB" Code="DB">
+<RouteDirectionList>
+<RouteDirection Code="West" Name="Stanford University">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList>
+<DepartureTime>25</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="DB1" Code="DB1">
+<RouteDirectionList>
+<RouteDirection Code="West" Name="Stanford Research Park">
+<StopList>
+<Stop name="Decoto Rd and Royal Ann Dr Clover St" StopCode="50252">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

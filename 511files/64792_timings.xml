@@ -1,0 +1,69 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="Borregas" StopCode="64792">
+<DepartureTimeList>
+<DepartureTime>14</DepartureTime>
+<DepartureTime>25</DepartureTime>
+<DepartureTime>43</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="912" Code="912">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Mountain View - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Borregas" StopCode="64792">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="913" Code="913">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Alum Rock - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Borregas" StopCode="64792">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="914" Code="914">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Winchester - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Borregas" StopCode="64792">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

@@ -1,0 +1,23 @@
+<RTT>
+<AgencyList>
+<Agency Name="WESTCAT " HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="10 GEMS AND BIRDS" Code="10">
+<RouteDirectionList>
+<RouteDirection Code="LOOP" Name="LOOP">
+<StopList>
+<Stop name="TURQUIOSE DR AND DIAMOND CT" StopCode="2177">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

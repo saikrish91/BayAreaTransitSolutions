@@ -1,0 +1,37 @@
+<RTT>
+<AgencyList>
+<Agency Name="Vine (Napa County)" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="ROUTE  1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="Browns Valley/Downtown">
+<StopList>
+<Stop name="1st Street &amp; Monroe Street" StopCode="89004">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE  2" Code="2">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="Outlets /Old Sonoma /Laurel/County Health/Downtown">
+<StopList>
+<Stop name="1st Street &amp; Monroe Street" StopCode="89004">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

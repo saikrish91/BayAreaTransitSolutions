@@ -1,0 +1,59 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="International Blvd and 34th Av" StopCode="52222">
+<DepartureTimeList>
+<DepartureTime>5</DepartureTime>
+<DepartureTime>21</DepartureTime>
+<DepartureTime>65</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="1R" Code="1R">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="International Blvd and 34th Av" StopCode="52222">
+<DepartureTimeList>
+<DepartureTime>7</DepartureTime>
+<DepartureTime>24</DepartureTime>
+<DepartureTime>44</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="801" Code="801">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="International Blvd and 34th Av" StopCode="52222">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

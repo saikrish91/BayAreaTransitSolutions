@@ -1,0 +1,23 @@
+<RTT>
+<AgencyList>
+<Agency Name="Marin Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="113" Code="113">
+<RouteDirectionList>
+<RouteDirection Code="1728" Name="113 Eastbound To Paradise Cay">
+<StopList>
+<Stop name="Paradise Dr &amp; Prince Royal Dr" StopCode="40287">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

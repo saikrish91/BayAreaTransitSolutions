@@ -1,0 +1,41 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="North" Name="Berkeley BART">
+<StopList>
+<Stop name="International Blvd and 26th Av" StopCode="50666">
+<DepartureTimeList>
+<DepartureTime>7</DepartureTime>
+<DepartureTime>17</DepartureTime>
+<DepartureTime>40</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="801" Code="801">
+<RouteDirectionList>
+<RouteDirection Code="North" Name="Downtown Oakland">
+<StopList>
+<Stop name="International Blvd and 26th Av" StopCode="50666">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

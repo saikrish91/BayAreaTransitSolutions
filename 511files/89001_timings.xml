@@ -1,0 +1,226 @@
+<RTT>
+<AgencyList>
+<Agency Name="Vine (Napa County)" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="ROUTE  1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="Browns Valley/Downtown">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE  2" Code="2">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="Outlets /Old Sonoma /Laurel/County Health/Downtown">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE  3" Code="3">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="County Health/South Napa Marketplace/Coombs">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE  4" Code="4">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="Shetler / South Napa Marketplace">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE  5" Code="5">
+<RouteDirectionList>
+<RouteDirection Code="LP" Name="Alta Heights/Pear Tree/Napa High">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE  8" Code="8">
+<RouteDirectionList>
+<RouteDirection Code="N" Name="Downtown/Redwood PNR">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="S" Name="Redwood PNR/Downtown">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE 10" Code="10">
+<RouteDirectionList>
+<RouteDirection Code="N" Name="NVC/Calistoga">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList>
+<DepartureTime>39</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="S" Name="Calistoga/NVC">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList>
+<DepartureTime>21</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE 11" Code="11">
+<RouteDirectionList>
+<RouteDirection Code="N" Name="Vallejo/Redwood PNR">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="S" Name="Redwood PNR/Vallejo">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE 21" Code="21">
+<RouteDirectionList>
+<RouteDirection Code="E" Name="Fairfield/Suisun City">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="W" Name="Napa">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE 25" Code="25">
+<RouteDirectionList>
+<RouteDirection Code="E" Name="Sonoma to Napa">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="W" Name="Napa to Sonoma">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="ROUTE 29" Code="29">
+<RouteDirectionList>
+<RouteDirection Code="N" Name="Express to Napa/Calistoga">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList>
+<DepartureTime>29</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="S" Name="Express to BART">
+<StopList>
+<Stop name="Soscol Gateway Transit Center" StopCode="89001">
+<DepartureTimeList>
+<DepartureTime>18</DepartureTime>
+<DepartureTime>57</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

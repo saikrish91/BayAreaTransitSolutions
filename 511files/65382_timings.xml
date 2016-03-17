@@ -1,0 +1,27 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="Race" StopCode="65382">
+<DepartureTimeList>
+<DepartureTime>5</DepartureTime>
+<DepartureTime>40</DepartureTime>
+<DepartureTime>55</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

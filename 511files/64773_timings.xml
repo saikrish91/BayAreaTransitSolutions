@@ -1,0 +1,73 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="901" Code="901">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="Santa Clara" StopCode="64773">
+<DepartureTimeList>
+<DepartureTime>19</DepartureTime>
+<DepartureTime>23</DepartureTime>
+<DepartureTime>44</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="901X" Code="901X">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="Santa Clara" StopCode="64773">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="Santa Clara" StopCode="64773">
+<DepartureTimeList>
+<DepartureTime>8</DepartureTime>
+<DepartureTime>35</DepartureTime>
+<DepartureTime>58</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="914" Code="914">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Winchester - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Santa Clara" StopCode="64773">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

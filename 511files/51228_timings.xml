@@ -1,0 +1,42 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="E 14th St and 141st Av" StopCode="51228">
+<DepartureTimeList>
+<DepartureTime>3</DepartureTime>
+<DepartureTime>14</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="801" Code="801">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="E 14th St and 141st Av" StopCode="51228">
+<DepartureTimeList>
+<DepartureTime>47</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

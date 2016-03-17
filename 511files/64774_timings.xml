@@ -1,0 +1,73 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="901" Code="901">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="San Antonio" StopCode="64774">
+<DepartureTimeList>
+<DepartureTime>7</DepartureTime>
+<DepartureTime>24</DepartureTime>
+<DepartureTime>38</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="901X" Code="901X">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="San Antonio" StopCode="64774">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="San Antonio" StopCode="64774">
+<DepartureTimeList>
+<DepartureTime>22</DepartureTime>
+<DepartureTime>52</DepartureTime>
+<DepartureTime>62</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="914" Code="914">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Winchester - Levi&#39;s Stadium">
+<StopList>
+<Stop name="San Antonio" StopCode="64774">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

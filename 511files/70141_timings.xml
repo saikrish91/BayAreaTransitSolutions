@@ -1,0 +1,58 @@
+<RTT>
+<AgencyList>
+<Agency Name="Caltrain" HasDirection="True" Mode="Rail">
+<RouteList>
+<Route Name="BABY BULLET" Code="BABY BULLET">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Redwood City Caltrain Station" StopCode="70141">
+<DepartureTimeList>
+<DepartureTime>87</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LIMITED" Code="LIMITED">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Redwood City Caltrain Station" StopCode="70141">
+<DepartureTimeList>
+<DepartureTime>60</DepartureTime>
+<DepartureTime>66</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LOCAL" Code="LOCAL">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Redwood City Caltrain Station" StopCode="70141">
+<DepartureTimeList>
+<DepartureTime>21</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

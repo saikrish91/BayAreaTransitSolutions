@@ -1,0 +1,37 @@
+<RTT>
+<AgencyList>
+<Agency Name="SamTrans" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="11" Code="11">
+<RouteDirectionList>
+<RouteDirection Code="NORTH" Name="Southgate Lakeshire">
+<StopList>
+<Stop name="SKYLINE DR &amp; OCEANSIDE DR" StopCode="332298">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="110" Code="110">
+<RouteDirectionList>
+<RouteDirection Code="NORTH" Name="Daly City BART">
+<StopList>
+<Stop name="SKYLINE DR &amp; OCEANSIDE DR" StopCode="332298">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

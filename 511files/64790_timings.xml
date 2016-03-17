@@ -1,0 +1,55 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="Bayshore Nasa" StopCode="64790">
+<DepartureTimeList>
+<DepartureTime>7</DepartureTime>
+<DepartureTime>18</DepartureTime>
+<DepartureTime>36</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="912" Code="912">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Mountain View - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Bayshore Nasa" StopCode="64790">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="914" Code="914">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Winchester - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Bayshore Nasa" StopCode="64790">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

@@ -1,0 +1,60 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="International Blvd and 85th Av" StopCode="51154">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="356" Code="356">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="MacArthur Blvd and EC Reems Ct">
+<StopList>
+<Stop name="International Blvd and 85th Av" StopCode="51154">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="North" Name="Alameda South Shore Center">
+<StopList>
+<Stop name="International Blvd and 85th Av" StopCode="51154">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="801" Code="801">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fremont BART">
+<StopList>
+<Stop name="International Blvd and 85th Av" StopCode="51154">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

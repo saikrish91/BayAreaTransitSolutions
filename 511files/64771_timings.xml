@@ -1,0 +1,73 @@
+<RTT>
+<AgencyList>
+<Agency Name="VTA" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="901" Code="901">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="Japantown / Ayer" StopCode="64771">
+<DepartureTimeList>
+<DepartureTime>11</DepartureTime>
+<DepartureTime>25</DepartureTime>
+<DepartureTime>40</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="901X" Code="901X">
+<RouteDirectionList>
+<RouteDirection Code="Outbound" Name="Outbound to Alum Rock - Santa Teresa">
+<StopList>
+<Stop name="Japantown / Ayer" StopCode="64771">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="902" Code="902">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Mountain View - Winchester">
+<StopList>
+<Stop name="Japantown / Ayer" StopCode="64771">
+<DepartureTimeList>
+<DepartureTime>24</DepartureTime>
+<DepartureTime>40</DepartureTime>
+<DepartureTime>51</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="914" Code="914">
+<RouteDirectionList>
+<RouteDirection Code="Inbound" Name="Inbound to Winchester - Levi&#39;s Stadium">
+<StopList>
+<Stop name="Japantown / Ayer" StopCode="64771">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

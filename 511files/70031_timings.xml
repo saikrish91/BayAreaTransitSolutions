@@ -1,0 +1,39 @@
+<RTT>
+<AgencyList>
+<Agency Name="Caltrain" HasDirection="True" Mode="Rail">
+<RouteList>
+<Route Name="LIMITED" Code="LIMITED">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Bayshore Caltrain Station" StopCode="70031">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LOCAL" Code="LOCAL">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="Bayshore Caltrain Station" StopCode="70031">
+<DepartureTimeList>
+<DepartureTime>48</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

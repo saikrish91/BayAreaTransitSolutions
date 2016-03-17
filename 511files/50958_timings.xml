@@ -1,0 +1,215 @@
+<RTT>
+<AgencyList>
+<Agency Name="AC Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="1" Code="1">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Bay Fair BART">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>7</DepartureTime>
+<DepartureTime>26</DepartureTime>
+<DepartureTime>47</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="11" Code="11">
+<RouteDirectionList>
+<RouteDirection Code="East" Name="Dimond District">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="12" Code="12">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Downtown Oakland">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>1</DepartureTime>
+<DepartureTime>35</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="18" Code="18">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Montclair">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>2</DepartureTime>
+<DepartureTime>18</DepartureTime>
+<DepartureTime>45</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="51A" Code="51A">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fruitvale BART">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>11</DepartureTime>
+<DepartureTime>31</DepartureTime>
+<DepartureTime>51</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="72" Code="72">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Oakland Amtrak at Jack London Square">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>9</DepartureTime>
+<DepartureTime>45</DepartureTime>
+<DepartureTime>71</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="72M" Code="72M">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Oakland Amtrak at Jack London Square">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>23</DepartureTime>
+<DepartureTime>65</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="800" Code="800">
+<RouteDirectionList>
+<RouteDirection Code="West" Name="San Francisco">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="802" Code="802">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Downtown Oakland">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="805" Code="805">
+<RouteDirectionList>
+<RouteDirection Code="West" Name="Downtown Oakland">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="851" Code="851">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Fruitvale BART">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="Broadway Shuttle Fri Sat Nights" Code="BSN">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Jack London Square">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList>
+<DepartureTime>11</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="Broadway Shuttle Weekdays" Code="BSD">
+<RouteDirectionList>
+<RouteDirection Code="South" Name="Jack London Square">
+<StopList>
+<Stop name="Broadway and 17th St 19th St BART Station" StopCode="50958">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

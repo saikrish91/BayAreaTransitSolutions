@@ -1,0 +1,57 @@
+<RTT>
+<AgencyList>
+<Agency Name="Caltrain" HasDirection="True" Mode="Rail">
+<RouteList>
+<Route Name="BABY BULLET" Code="BABY BULLET">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="San Mateo Caltrain Station" StopCode="70091">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LIMITED" Code="LIMITED">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="San Mateo Caltrain Station" StopCode="70091">
+<DepartureTimeList>
+<DepartureTime>9</DepartureTime>
+<DepartureTime>19</DepartureTime>
+<DepartureTime>43</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="LOCAL" Code="LOCAL">
+<RouteDirectionList>
+<RouteDirection Code="NB" Name="NORTHBOUND TO SAN FRANCISCO">
+<StopList>
+<Stop name="San Mateo Caltrain Station" StopCode="70091">
+<DepartureTimeList>
+<DepartureTime>76</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

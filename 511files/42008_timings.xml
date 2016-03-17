@@ -1,0 +1,32 @@
+<RTT>
+<AgencyList>
+<Agency Name="Marin Transit" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="113" Code="113">
+<RouteDirectionList>
+<RouteDirection Code="1728" Name="113 Eastbound To Paradise Cay">
+<StopList>
+<Stop name="San Clemente Parking  Lot" StopCode="42008">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+<RouteDirection Code="1727" Name="113 Westbound To Redwood HS">
+<StopList>
+<Stop name="San Clemente Parking  Lot" StopCode="42008">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>

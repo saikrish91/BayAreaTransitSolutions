@@ -1,0 +1,39 @@
+<RTT>
+<AgencyList>
+<Agency Name="SamTrans" HasDirection="True" Mode="Bus">
+<RouteList>
+<Route Name="11" Code="11">
+<RouteDirectionList>
+<RouteDirection Code="SOUTH" Name="Gateway Hickey">
+<StopList>
+<Stop name="GATEWAY DR &amp; SKYLINE DR" StopCode="311420">
+<DepartureTimeList />
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+<Route Name="112" Code="112">
+<RouteDirectionList>
+<RouteDirection Code="NORTH" Name="Colma BART">
+<StopList>
+<Stop name="GATEWAY DR &amp; SKYLINE DR" StopCode="311420">
+<DepartureTimeList>
+<DepartureTime>37</DepartureTime>
+</DepartureTimeList>
+</Stop>
+
+</StopList>
+</RouteDirection>
+
+</RouteDirectionList>
+</Route>
+
+</RouteList>
+</Agency>
+
+</AgencyList>
+</RTT>
